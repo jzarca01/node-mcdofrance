@@ -1,0 +1,17 @@
+{
+  "name": "node-mcdofrance",
+  "version": "0.0.1",
+  "description": "Api Wrapper for Mcdonalds France",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "faker": "^4.1.0",
+    "moment": "^2.22.2",
+    "qs": "^6.5.2"
+  }
+}
